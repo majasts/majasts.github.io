@@ -4,5 +4,5 @@
 
 ## Projects
 ### Paper, rock, scissors gesture recognition based on Hypothesis Testing
-[Code]([https://www.mdpi.com/1424-8220/22/8/3048](https://github.com/majasts/Paper-rock-scissors-gesture-recognition-based-on-Hypothesis-Testing/tree/main))
+[Project]((https://github.com/majasts/Paper-rock-scissors-gesture-recognition-based-on-Hypothesis-Testing/tree/main))
 
