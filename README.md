@@ -1,4 +1,6 @@
-Welcome to my portfolio! Here, you'll find projects showcasing my work in **machine learning, signal processing, and software development**. 
+# 📂 Maja's Project Portfolio
+## Welcome to my portfolio! 
+Here, you'll find projects showcasing my work in **machine learning, signal processing, and software development**. 
 Each project includes a brief overview and a link to its repository.
 
 ---
@@ -31,21 +33,27 @@ Each project includes a brief overview and a link to its repository.
 ### 📂 File System Implementation
 **Description:** Implementation of the file system with functions of **deleting, creating and moving** folders and files.
 
+🔗 [Project Repository](https://github.com/majasts/Implementation-of-the-file-system-with-functions-of-deleting-creating-and-moving-folders-and-files)
+
 ---
 
 ### 🏙 Public Transport Network Simulator
 **Description:** A **city public transport simulator** that models different types of transport lines and optimizes routes for efficiency.
 
-Implementation of a help and comment section on a platform 
+🔗 [Project Repository](https://github.com/majasts/Simulator-of-a-city-public-transport-network-with-various-types-of-lines-of-transport-optimisations)
+
 ---
 
 ### 🗨 Help & Comment Section Implementation
 **Description:** Implementation of a **help and comment** section on a platform 
 
+🔗 [Project Repository](https://github.com/majasts/Implementation-of-a-help-and-comment-section-on-a-platform)
+
 ---
 
 ## 📬 Get in Touch
 
-📧 Email: majastosic2104@gmail.com 
-💼 LinkedIn: [https://www.linkedin.com/in/majastosic/](#)  
+📧 [Email](majastosic2104@gmail.com)
+
+💼 [LinkedIn](https://www.linkedin.com/in/majastosic/)  
 
