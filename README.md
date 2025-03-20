@@ -1,6 +1,4 @@
-# 📂 Maja's Project Portfolio
-
-## Welcome to my portfolio! 
+# Welcome to my portfolio! 
 Here, you'll find projects showcasing my work in **machine learning, signal processing, and software development**. 
 Each project includes a brief overview and a link to its repository.
 
