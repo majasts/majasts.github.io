@@ -50,6 +50,6 @@
 
 ## 📬 Get in Touch
 
-📧 [Email](majastosic2104@gmail.com)
+📧 majastosic2104@gmail.com 
 
 💼 [LinkedIn](https://www.linkedin.com/in/majastosic/)  
